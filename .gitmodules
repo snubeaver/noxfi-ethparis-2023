@@ -1,9 +1,6 @@
 [submodule "noxfi-web-public"]
 	path = noxfi-web-public
 	url = https://github.com/TeamHeimdallr/noxfi-web-public
-[submodule "noxfi-server-public"]
-	path = noxfi-server-public
-	url = https://github.com/TeamHeimdallr/noxfi-server-public
 [submodule "noxfi-core-contract"]
 	path = noxfi-core-contract
 	url = https://github.com/koe7/noxfi-core-ethparis
